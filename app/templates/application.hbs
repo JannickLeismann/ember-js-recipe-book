@@ -1,0 +1,12 @@
+{{page-title "RecipeBook"}}
+
+<nav class="navbar">
+    <LinkTo class="nav-link" @route="recipes">Home</LinkTo>
+    <LinkTo class="nav-link" @route="create-recipe">Create a recipe</LinkTo>
+    <LinkTo class="nav-link" @route="favorites">Favorites</LinkTo>
+
+</nav>
+
+<div class="container">
+    {{outlet}}
+</div>

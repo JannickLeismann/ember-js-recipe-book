@@ -1,0 +1,74 @@
+{
+    "recipes": [
+      {
+        "id": "1",
+        "title": "Spaghetti Carbonara",
+        "description": "A classic Italian pasta dish made with eggs, cheese, and bacon.",
+        "ingredients": ["200g Spaghetti", "4 Eggs", "100g Bacon", "50g Parmesan Cheese", "Black Pepper"],
+        "instructions": "Cook spaghetti. In a separate bowl, whisk eggs and cheese. Fry bacon until crispy. Mix the pasta with bacon and then quickly add the egg mixture."
+      },
+      {
+        "id": "2",
+        "title": "Chicken Tikka Masala",
+        "description": "A flavorful Indian curry made with chicken marinated in spices and yogurt.",
+        "ingredients": ["500g Chicken", "200g Yogurt", "3 Tomatoes", "1 Onion", "2 tsp Garam Masala", "1 tsp Turmeric", "1 tsp Cumin"],
+        "instructions": "Marinate chicken in yogurt and spices for 2 hours. Fry onions until translucent. Add tomatoes and chicken. Simmer for 30 minutes."
+      },
+      {
+        "id": "3",
+        "title": "Guacamole",
+        "description": "A creamy avocado dip originated from Mexico.",
+        "ingredients": ["2 Avocados", "1 Tomato", "1 Onion", "1 Lime", "Coriander", "Salt", "Pepper"],
+        "instructions": "Mash avocados. Chop tomatoes and onions finely. Mix all ingredients together. Squeeze lime juice on top."
+      },
+      {
+        "id": "4",
+        "title": "Beef Stir-Fry",
+        "description": "Quick and delicious stir-fried beef with vegetables.",
+        "ingredients": ["200g Beef", "1 Bell Pepper", "1 Carrot", "2 tbsp Soy Sauce", "1 tbsp Oyster Sauce", "2 tsp Cornstarch"],
+        "instructions": "Cut beef into thin slices. Mix with cornstarch. Slice vegetables. Stir-fry beef for 2 minutes. Add vegetables and sauces."
+      },
+      {
+        "id": "5",
+        "title": "Fish Tacos",
+        "description": "Crispy fish served in a tortilla with salsa.",
+        "ingredients": ["2 Fish Fillets", "4 Tortillas", "1 Tomato", "1 Onion", "1 Lime", "Coriander", "Salt", "Pepper"],
+        "instructions": "Fry fish until crispy. Place on tortillas. Top with chopped tomatoes, onions, and coriander. Squeeze lime juice on top."
+      },
+      {
+        "id": "6",
+        "title": "Cheese Omelette",
+        "description": "Fluffy eggs with melted cheese inside.",
+        "ingredients": ["3 Eggs", "50g Cheddar Cheese", "Butter", "Salt", "Pepper"],
+        "instructions": "Whisk eggs. Melt butter in a pan. Pour eggs into the pan. When almost set, sprinkle cheese on one side and fold."
+      },
+      {
+        "id": "7",
+        "title": "BBQ Ribs",
+        "description": "Tender pork ribs with a smoky barbecue sauce.",
+        "ingredients": ["500g Pork Ribs", "200ml BBQ Sauce", "2 tbsp Brown Sugar", "2 tsp Salt", "1 tsp Black Pepper"],
+        "instructions": "Rub ribs with salt, pepper, and sugar. Grill for 30 minutes. Coat with BBQ sauce and grill for another 15 minutes."
+      },
+      {
+        "id": "8",
+        "title": "Vegetarian Pizza",
+        "description": "Crispy pizza crust topped with your favorite veggies.",
+        "ingredients": ["1 Pizza Dough", "100g Tomato Sauce", "1 Bell Pepper", "1 Onion", "50g Mushrooms", "100g Mozzarella Cheese"],
+        "instructions": "Roll out pizza dough. Spread sauce on top. Add toppings and cheese. Bake at 220°C for 15 minutes."
+      },
+      {
+        "id": "9",
+        "title": "Chocolate Brownies",
+        "description": "Rich and fudgy brownies with a crackly top.",
+        "ingredients": ["100g Chocolate", "50g Butter", "2 Eggs", "100g Sugar", "50g Flour"],
+        "instructions": "Melt chocolate and butter. Mix eggs and sugar. Combine all ingredients. Pour into a baking dish and bake at 180°C for 25 minutes."
+      },
+      {
+        "id": "10",
+        "title": "Mango Lassi",
+        "description": "A refreshing Indian yogurt-based drink with mangoes.",
+        "ingredients": ["1 Mango", "200ml Yogurt", "50ml Milk", "2 tsp Sugar", "Ice"],
+        "instructions": "Blend all ingredients together until smooth."
+      }
+    ]
+  }

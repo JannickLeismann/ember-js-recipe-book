@@ -1,0 +1,23 @@
+{{page-title "Details"}}
+<h1>{{@model.title}}</h1>
+<h3 class="text-center mb">{{@model.description}}</h3>
+
+<div class="recipe-info-section">
+
+    <h3>Ingredients</h3>
+
+    <ol>
+        {{#each @model.ingredients as |ingredient|}}
+            <li>{{ingredient}}</li>
+        {{/each}}
+    </ol>
+
+</div>
+
+<div class="recipe-info-section">
+
+    <h3>Instructions</h3>
+
+    <p>{{@model.instructions}}</p>
+
+</div>

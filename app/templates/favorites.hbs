@@ -1,0 +1,8 @@
+{{page-title "Favorites"}}
+
+<h1>My Favorite Recipes</h1>
+
+{{#each @model as |recipe|}}
+    <RecipeShortOverview @title="{{recipe.title}}" 
+    @description="{{recipe.description}}" @id="{{recipe.id}}"/>
+{{/each}}
